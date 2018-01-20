@@ -1,3 +1,9 @@
+# Developer By : NIRANJAN KUMAR G S 
+# From : INDIA
+# Email : niranjan4@outlook.in
+# Updated date : 12/Dec/2017
+
+
 import matplotlib.pyplot as plt
 # Draw the graph
 def draw_graph(x, y):
